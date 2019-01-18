@@ -18,6 +18,8 @@
 ## Guides
 * [JavaScript: Discord.js Bot Guide - Season 2 – Evie Codes](https://www.youtube.com/playlist?list=PLm2hXbDAZv10BKGQxTbyQAEYmC0UcMXnH)
 * [JavaScript: Discord.js Bot Development - {TheSourceCode}](https://www.youtube.com/playlist?list=PLdnyVeMcpY7-GfaXaWBOb3ZQkJxP53BIx)
+* [JavaScript: Discord.js Bot Tutorials - PlexiDevelopment](https://www.youtube.com/playlist?list=PLL9m5KjtRdzAubBDuYU6Rq7_OMvoS9zA7)
+* [How To: Discord Permissions And Roles Full Tutorial - Dusty Porter](https://www.youtube.com/watch?v=Fc2zc24XjfI)
 
 ## Miscellaneous
 * [Display Netflix shows as your status](https://github.com/nirewen/discord-netflix)
