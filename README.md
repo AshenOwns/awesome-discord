@@ -1,9 +1,4 @@
-# Awesome Discord
-A curated list of awesome Discord libraries, frameworks, and resources.
-
-<p align="center">
-    <a href="https://github.com/boltxyz/awesome-discord"><img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
-</p>
+# Awesome Discord [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 * [Libraries](#libraries)
