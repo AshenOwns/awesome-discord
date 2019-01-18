@@ -4,20 +4,21 @@
 ## Contents
 * [Libraries](#libraries)
 * [Frameworks](#frameworks)
-* [Guides/Tutorials](#guides/tutorials)
+* [Guides](#guides)
 * [Miscellaneous]()
 
 ## Libraries
 * [JavaScript: discord.js](https://discord.js.org)
 * [Python: discord.py](https://github.com/Rapptz/discord.py)
-* [Java: JDA](https://github.com/DV8FromTheWorld/JDA)
-* [C#: Discord.NET](https://github.com/RogueException/Discord.Net)
+* [JavaScript: JCord](https://github.com/KevvyCodes/JCord)
 
 ## Frameworks
-* [JavaScript: discord.js-commando]() – discord.js framework
 
-## Guides/Tutorials
+
+## Guides
 * [JavaScript: Discord.js Bot Guide - Season 2 – Evie Codes](https://www.youtube.com/playlist?list=PLm2hXbDAZv10BKGQxTbyQAEYmC0UcMXnH)
+
+## Miscellaneous
 
 ## Contributing
 * Contributions are very welcome: [Submit Resource](https://github.com/boltxyz/awesome-discord/issues/new)
