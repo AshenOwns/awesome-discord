@@ -5,7 +5,7 @@
 * [Libraries](#libraries)
 * [Frameworks](#frameworks)
 * [Guides](#guides)
-* [Miscellaneous]()
+* [Miscellaneous](#miscellaneous)
 
 ## Libraries
 * [JavaScript: discord.js](https://discord.js.org)
@@ -13,12 +13,15 @@
 * [JavaScript: JCord](https://github.com/KevvyCodes/JCord)
 
 ## Frameworks
-
+* [Javascript: Akairo - A bot framework for Discord.js](https://github.com/1Computer1/discord-akairo)
 
 ## Guides
 * [JavaScript: Discord.js Bot Guide - Season 2 – Evie Codes](https://www.youtube.com/playlist?list=PLm2hXbDAZv10BKGQxTbyQAEYmC0UcMXnH)
+* [JavaScript: Discord.js Bot Development - {TheSourceCode}](https://www.youtube.com/playlist?list=PLdnyVeMcpY7-GfaXaWBOb3ZQkJxP53BIx)
 
 ## Miscellaneous
+* [Display Netflix shows as your status](https://github.com/nirewen/discord-netflix)
+* [Display Playstation games as your status](https://github.com/Tustin/PlayStationDiscord)
 
 ## Contributing
 * Contributions are very welcome: [Submit Resource](https://github.com/boltxyz/awesome-discord/issues/new)
