@@ -1,4 +1,5 @@
 # Awesome Discord [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[Submit Your Own Project](https://github.com/boltxyz/awesome-discord/issues/new)
 
 ## Contents
 * [Libraries](#libraries)

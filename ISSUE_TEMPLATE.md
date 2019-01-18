@@ -1,5 +1,5 @@
 <!--
-Thanks for contributing and submitting!
+Thanks for contributing and submitting! You must own the project to proceed.
 -->
 
 ### Main programming language
